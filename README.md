@@ -4,4 +4,4 @@ Este projeto é uma landing page de uma loja fictícia de produtos tecnológicos
 
 ## 📸 Preview
 
-![Preview do site]()
+![Preview do site](img/preview-site.jpeg)
