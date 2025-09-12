@@ -5,3 +5,9 @@ Este projeto é uma landing page de uma loja fictícia de produtos tecnológicos
 ## 📸 Preview
 
 ![Preview do site](img/preview-site.jpeg)
+
+##  Acesse
+
+-  [DevClub Store - GitHub Pages](https://maluwhoo.github.io/devclub-store-html-css-js/)
+
+---
