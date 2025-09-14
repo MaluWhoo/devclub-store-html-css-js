@@ -91,7 +91,7 @@ header nav ul li:hover::after { /* Aqui ele só vai aplicar o hover quando tiver
     left: 50%;
     transform: translate(-50%, -50%); /* Esquema para centralizar qualquer coisa */
     filter: blur(50px);
-    z-index: -100;
+    z-index: 1;
     animation: pulse 4s infinite alternate; /* Qaunto tempo até ele sair do momento 0% até chegar no 100% */
 }
 
@@ -367,3 +367,4 @@ header nav ul li:hover::after { /* Aqui ele só vai aplicar o hover quando tiver
     top: 20%;
     left: 70%; 
 }
+
