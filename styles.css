@@ -248,7 +248,7 @@ header nav ul li:hover::after { /* Aqui ele só vai aplicar o hover quando tiver
     transition: transform 0.6s ease, opacity 0.6s ease;
     transition-delay: 0.6s;
 
-     z-index: 99;
+    z-index: 99;
 }
 
 .active .btn{
@@ -367,7 +367,3 @@ header nav ul li:hover::after { /* Aqui ele só vai aplicar o hover quando tiver
     top: 20%;
     left: 70%; 
 }
-
-
-
-
